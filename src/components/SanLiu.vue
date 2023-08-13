@@ -19,7 +19,6 @@ import mixin from './mixin';
 export default {
     mixins: [mixin],
     components: {
-        // QuanBu,
     },
     created() {
         return this.quan;
